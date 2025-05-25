@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build GPX parser",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "main.cpp",
+        "tinyxml2.cpp",
+        "-o",
+        "gpxparser.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "detail": "Build GPX parser using g++"
+    }
+  ]
+}
