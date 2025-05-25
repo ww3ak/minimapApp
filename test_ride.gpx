@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ChatGPT Example" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Test Ride</name>
+    <trkseg>
+      <trkpt lat="45.0000" lon="-93.0000">
+        <ele>280.5</ele>
+        <time>2025-05-24T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="45.0005" lon="-93.0005">
+        <ele>281.0</ele>
+        <time>2025-05-24T10:05:00Z</time>
+      </trkpt>
+      <trkpt lat="45.0010" lon="-93.0010">
+        <ele>282.2</ele>
+        <time>2025-05-24T10:10:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
