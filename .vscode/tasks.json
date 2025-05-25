@@ -8,7 +8,7 @@
       "args": [
         "-std=c++17",
         "main.cpp",
-        "tinyxml2.cpp",
+        "external/tinyxml2/tinyxml2.cpp",
         "-o",
         "gpxparser.exe"
       ],
